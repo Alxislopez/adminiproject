@@ -1,0 +1,79 @@
+[
+  {
+    "filePath": "C:\\Users\\alexi\\Downloads\\LICET - FNH -UNIT IV DIET AND DISEAES (1) 11.3.2026.pdf",
+    "filename": "LICET - FNH -UNIT IV DIET AND DISEAES (1) 11.3.2026.pdf",
+    "mimeType": "application/pdf",
+    "subjectId": "subject_1775618977870",
+    "subjectName": "fnh",
+    "confidence": 0.95,
+    "reasoning": "The document is primarily focused on nutritional disorders, diet, and health indices, which are all related to the field of food and nutrition (fnh). The keywords 'nutrition', 'diet', and 'health' are also present in the document, further supporting the classification.",
+    "id": "shortcut_1775619537184",
+    "createdAt": "2026-04-08T03:38:57.184Z"
+  },
+  {
+    "filePath": "C:\\Users\\alexi\\Downloads\\new projects\\adproj\\data\\files\\devops\\MAVEN.pdf",
+    "filename": "MAVEN.pdf",
+    "mimeType": "application/pdf",
+    "subjectId": "subject_1775616345836",
+    "subjectName": "devops",
+    "confidence": 0.8,
+    "reasoning": "The document contains Java code and Maven configuration, which are related to devops practices such as continuous integration and continuous deployment.",
+    "id": "shortcut_1775620040592",
+    "createdAt": "2026-04-08T03:47:20.592Z"
+  },
+  {
+    "filePath": "C:\\Users\\alexi\\Downloads\\new projects\\adproj\\data\\files\\Sta\\STA - RECORD (3) (2).pdf",
+    "filename": "STA - RECORD (3) (2).pdf",
+    "mimeType": "application/pdf",
+    "subjectId": "subject_1775624734903",
+    "subjectName": "Sta",
+    "confidence": 0.8,
+    "reasoning": "The document contains topics related to software testing, such as test planning, test cases, defect reporting, performance testing, and automation testing using Selenium and TestNG. The content also includes specific examples of testing an e-commerce application, which aligns with the subject of software testing.",
+    "id": "shortcut_1775624767426",
+    "createdAt": "2026-04-08T05:06:07.426Z"
+  },
+  {
+    "filePath": "C:\\Users\\alexi\\Downloads\\ex5sta Croma.com Defect Identification Report.docx",
+    "filename": "ex5sta Croma.com Defect Identification Report.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "subjectId": "subject_1775624734903",
+    "subjectName": "Sta",
+    "confidence": 0.85,
+    "reasoning": "The document contains keywords related to software testing, such as 'test cases', 'defects', 'selenium', 'login timeout', 'error message handling', 'session timeout', 'dynamic locator instability', and 'filter application delay'. These keywords are commonly associated with software testing and quality assurance, which is the primary focus of the Sta subject.",
+    "id": "shortcut_1775627530595",
+    "createdAt": "2026-04-08T05:52:10.595Z"
+  },
+  {
+    "filePath": "C:\\Users\\alexi\\Downloads\\new projects\\adproj\\data\\files\\fnh\\FNH - food_product_development_assignment_template 05.03.2026.docx",
+    "filename": "FNH - food_product_development_assignment_template 05.03.2026.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "subjectId": "subject_1775618977870",
+    "subjectName": "fnh",
+    "confidence": 0.8,
+    "reasoning": "The document is related to food product development, nutritional analysis, and sensory evaluation, which are all topics covered in the 'Food and Microbiology of Health' subject.",
+    "id": "shortcut_1775717908680",
+    "createdAt": "2026-04-09T06:58:28.680Z"
+  },
+  {
+    "filePath": "C:\\Users\\alexi\\Downloads\\new projects\\adproj\\data\\files\\fnh\\LICET -FNH -QUESTION BANK.pdf",
+    "filename": "LICET -FNH -QUESTION BANK.pdf",
+    "mimeType": "application/pdf",
+    "subjectId": "subject_1775618977870",
+    "subjectName": "fnh",
+    "confidence": 0.85,
+    "reasoning": "The document content is primarily related to food, nutrition, and health, which matches the subject 'fnh'. The topics covered include food microbiology, nutrients, food additives, and nutritional disorders, all of which are relevant to the subject. The language and structure of the document also align with the subject's content and format.",
+    "id": "shortcut_1775717952773",
+    "createdAt": "2026-04-09T06:59:12.773Z"
+  },
+  {
+    "filePath": "C:\\Users\\alexi\\Downloads\\First go to azure devops organization by searching in the search bar if not shown.docx",
+    "filename": "First go to azure devops organization by searching in the search bar if not shown.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "subjectId": "subject_1775616345836",
+    "subjectName": "devops",
+    "confidence": 0.8,
+    "reasoning": "The document contains keywords related to Azure DevOps, such as 'azure devops organization', 'create new organization', 'pipelines', 'github', 'maven', 'agent pools', and 'personal access token', which are all relevant to the devops subject.",
+    "id": "shortcut_1775718354284",
+    "createdAt": "2026-04-09T07:05:54.284Z"
+  }
+]
